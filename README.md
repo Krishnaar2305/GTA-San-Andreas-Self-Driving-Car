@@ -1,4 +1,4 @@
-# 🚗 Vision-Based Autonomous Driving Agent for GTA San Andreas
+ # 🚗 Vision-Based Autonomous Driving Agent for GTA San Andreas
 
 A fully vision-driven autonomous driving agent for **Grand Theft Auto: San Andreas**, combining modern deep learning (YOLOPv2 + YOLOv12), lane segmentation, object detection, real-time threat evaluation, and PID-based steering control through a virtual joystick driver (vJoy).  
 
